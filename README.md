@@ -1,8 +1,5 @@
 ## Hi there 👋 I'am Safwan Idris
-### Bare-Metal Embedded Developer | 16yo | C Enthusiast
-
-**roybooty/roybooty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 0x10-Year-Old Bare-Metal Dev ⚡
+### Bare-Metal Embedded Developer | 0x10-Year-old | C Enthusiast
 
 ### 📟 About Me
 - **Focus:** Embedded Systems / Low-level Firmware.
