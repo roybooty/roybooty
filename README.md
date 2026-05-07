@@ -10,7 +10,7 @@
 - **Current Grind:** Learning to write my own RTOS kernel / Register-level DMA control.
 - **Opinion:** HAL is a crutch. Pure C and the Reference Manual are all you need.
 - 📟 **Ask me about:** ARM Assembly, Linker Scripts, and why HAL sucks
-- 📫 How to reach me: safwanidris@proton.me
+- 📫 How to reach me: safwanidris4@proton.me
 - ⚡ Try: *((volatile uint32_t *)0x4001100C) |= (1 << 13);
 
 ### 🛠️ The Workbench
